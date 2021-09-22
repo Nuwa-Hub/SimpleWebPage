@@ -18,7 +18,7 @@
   <br>
   <p class="head">Interests</p>
   <ul>
-    <li>Drawing</li>
+    <li>Drawin</li>
     <li>Photography</li>
     <li>Design</li>
     <li>Programming</li>
